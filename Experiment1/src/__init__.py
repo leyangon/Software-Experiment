@@ -1,0 +1,1 @@
+"""Rainfall alert system package."""

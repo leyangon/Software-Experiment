@@ -1,0 +1,15 @@
+
+2026-04-21T11:53:20 | city=Guangzhou | rainfall_mm_h=23.60 | level=Red
+2026-04-21T11:56:31 | city=Guangzhou | rainfall_mm_h=23.60 | level=Red
+2026-04-21T11:56:31 | city=Guangzhou | rainfall_mm_h=23.60 | level=Red
+2026-04-21T11:56:32 | city=Guangzhou | rainfall_mm_h=23.60 | level=Red
+2026-04-21T11:56:32 | city=Guangzhou | rainfall_mm_h=23.60 | level=Red
+2026-04-21T11:57:59 | city=Guangzhou | rainfall_mm_h=23.60 | level=Red
+2026-04-21T11:58:00 | city=Guangzhou | rainfall_mm_h=23.60 | level=Red
+2026-04-21T11:58:01 | city=Guangzhou | rainfall_mm_h=23.60 | level=Red
+2026-04-21T11:58:01 | city=Guangzhou | rainfall_mm_h=23.60 | level=Red
+2026-04-21T11:58:02 | city=Guangzhou | rainfall_mm_h=23.60 | level=Red
+2026-04-21T11:58:03 | city=Guangzhou | rainfall_mm_h=23.60 | level=Red
+2026-04-21T11:58:03 | city=Guangzhou | rainfall_mm_h=23.60 | level=Red
+2026-04-21T11:58:04 | city=Guangzhou | rainfall_mm_h=23.60 | level=Red
+2026-04-21T11:58:04 | city=Guangzhou | rainfall_mm_h=23.60 | level=Red

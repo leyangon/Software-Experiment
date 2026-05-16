@@ -1,0 +1,6 @@
+1. For fixed rainfall of 50 mm, runoff increases monotonically as CN increases from 60 to 100.
+2. CN = 100 produces runoff equal to rainfall, which matches the impervious-surface boundary condition.
+3. Lower CN values preserve more storage capacity, so runoff starts later and grows more slowly.
+4. Physical validation status: Q<=P=True, monotonic_CN=True, zero_rainfall=True.
+5. Plot renderer used in this environment: pillow.
+6. AMC III produces more runoff than AMC II, while AMC I produces less, which is physically consistent.

@@ -1,0 +1,11 @@
+Flood Inundation Validation Report
+========================================
+Flooded area increases monotonically: True
+Flooded percentage always within 0-100%: True
+Edge case below minimum elevation behaves correctly: True
+Edge case above maximum elevation behaves correctly: True
+Maximum depth follows water_level - min_elevation: True
+Minimum elevation (m): 30.000
+Maximum elevation (m): 80.000
+Final test level (m): 50.000
+Final maximum depth (m): 20.000

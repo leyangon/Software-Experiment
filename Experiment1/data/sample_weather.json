@@ -1,0 +1,42 @@
+{
+  "Beijing": {
+    "city": "Beijing",
+    "country": "CN",
+    "rainfall_mm_h": 6.8,
+    "temperature_c": 19.2,
+    "humidity_pct": 58,
+    "weather": "broken clouds",
+    "longitude": 116.4074,
+    "latitude": 39.9042
+  },
+  "Shanghai": {
+    "city": "Shanghai",
+    "country": "CN",
+    "rainfall_mm_h": 12.4,
+    "temperature_c": 21.0,
+    "humidity_pct": 77,
+    "weather": "light rain",
+    "longitude": 121.4737,
+    "latitude": 31.2304
+  },
+  "Guangzhou": {
+    "city": "Guangzhou",
+    "country": "CN",
+    "rainfall_mm_h": 23.6,
+    "temperature_c": 25.3,
+    "humidity_pct": 88,
+    "weather": "thunderstorm",
+    "longitude": 113.2644,
+    "latitude": 23.1291
+  },
+  "Shenzhen": {
+    "city": "Shenzhen",
+    "country": "CN",
+    "rainfall_mm_h": 18.1,
+    "temperature_c": 24.6,
+    "humidity_pct": 83,
+    "weather": "moderate rain",
+    "longitude": 114.0579,
+    "latitude": 22.5431
+  }
+}

@@ -1,0 +1,9 @@
+Reservoir Optimization Validation Report
+========================================
+Optimizer message: Optimization terminated successfully
+Release bounds satisfied: True
+Minimum ecological release satisfied: True
+Storage bounds satisfied: True
+Mass balance satisfied: True
+Maximum mass balance residual (m^3): 0.000000
+Total revenue (USD): 48455.51

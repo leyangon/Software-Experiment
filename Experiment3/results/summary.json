@@ -1,0 +1,66 @@
+{
+  "baseline_revenue_usd": 48455.51,
+  "baseline_min_release_m3s": 10.0,
+  "baseline_final_storage_m3": 100000.0,
+  "water_quality_revenue_usd": 47351.89,
+  "rolling_horizon_revenue_usd": 47864.95,
+  "pareto_best_revenue_usd": 48667.41,
+  "pareto_lowest_deficit_m3": 0.0,
+  "algorithm_comparison": [
+    {
+      "method": "SLSQP",
+      "success": true,
+      "revenue_usd": 48455.514000000025,
+      "ecological_deficit_m3": 0.0,
+      "objective_value": -0.1214840856481482,
+      "storage_bounds_ok": true,
+      "minimum_release_ok": true
+    },
+    {
+      "method": "L-BFGS-B",
+      "success": true,
+      "revenue_usd": 48455.7199145599,
+      "ecological_deficit_m3": 0.0,
+      "objective_value": -0.12148434399266704,
+      "storage_bounds_ok": false,
+      "minimum_release_ok": true
+    }
+  ],
+  "uncertainty_summary": [
+    {
+      "scenario": "baseline",
+      "mean_inflow_m3s": 12.857142857142858,
+      "revenue_usd": 44498.16000000016,
+      "final_storage_m3": 448159.9999999687,
+      "feasible_storage": true
+    },
+    {
+      "scenario": "dry",
+      "mean_inflow_m3s": 10.285714285714286,
+      "revenue_usd": 44498.16000000016,
+      "final_storage_m3": -1107040.0000000314,
+      "feasible_storage": false
+    },
+    {
+      "scenario": "wetter_start",
+      "mean_inflow_m3s": 13.428571428571429,
+      "revenue_usd": 44498.16000000016,
+      "final_storage_m3": 793759.9999999686,
+      "feasible_storage": false
+    },
+    {
+      "scenario": "late_recovery",
+      "mean_inflow_m3s": 12.285714285714286,
+      "revenue_usd": 44498.16000000016,
+      "final_storage_m3": 102559.99999996863,
+      "feasible_storage": false
+    },
+    {
+      "scenario": "volatile",
+      "mean_inflow_m3s": 13.857142857142858,
+      "revenue_usd": 44498.16000000016,
+      "final_storage_m3": 1052959.9999999688,
+      "feasible_storage": false
+    }
+  ]
+}

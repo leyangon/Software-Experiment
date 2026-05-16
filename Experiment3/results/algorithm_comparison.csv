@@ -1,0 +1,3 @@
+method,success,revenue_usd,ecological_deficit_m3,objective_value,storage_bounds_ok,minimum_release_ok
+SLSQP,True,48455.514000000025,0.0,-0.1214840856481482,True,True
+L-BFGS-B,True,48455.7199145599,0.0,-0.12148434399266704,False,True
