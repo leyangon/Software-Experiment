@@ -3,6 +3,7 @@
 *
 
 !.gitignore
+!README.md
 
 # Experiment 1 deliverables
 !Experiment1/
@@ -10,6 +11,8 @@ Experiment1/*
 !Experiment1/weather_monitor.py
 !Experiment1/alert_log.txt
 !Experiment1/prompt_log.md
+!Experiment1/requirements.txt
+!Experiment1/pytest.ini
 !Experiment1/screenshots/
 Experiment1/screenshots/*
 !Experiment1/screenshots/dashboard_preview.png
@@ -21,6 +24,9 @@ Experiment1/src/*
 !Experiment1/data/
 Experiment1/data/*
 !Experiment1/data/sample_weather.json
+!Experiment1/tests/
+Experiment1/tests/*
+!Experiment1/tests/*.py
 
 # Experiment 2 deliverables
 !Experiment2/
@@ -30,6 +36,7 @@ Experiment2/*
 !Experiment2/sensitivity_analysis.py
 !Experiment2/runoff_comparison.png
 !Experiment2/prompt_log.md
+!Experiment2/requirements.txt
 
 # Support data required by Experiment 2 analysis script
 !Experiment2/data/
@@ -44,11 +51,16 @@ Experiment3/*
 !Experiment3/tradeoff_analysis.png
 !Experiment3/prompt_log.md
 !Experiment3/validation_report.txt
+!Experiment3/formulation.md
+!Experiment3/requirements.txt
 
 # Support files required by the modular Experiment 3 app
 !Experiment3/src/
 Experiment3/src/*
 !Experiment3/src/*.py
+!Experiment3/tests/
+Experiment3/tests/*
+!Experiment3/tests/*.py
 
 # Experiment 4 deliverables
 !Experiment4/
@@ -59,8 +71,13 @@ Experiment4/*
 !Experiment4/flood_extent_50m.png
 !Experiment4/flood_curve.png
 !Experiment4/prompt_log.md
+!Experiment4/validation_report.txt
+!Experiment4/requirements.txt
 
 # Support files required by the modular Experiment 4 app
 !Experiment4/src/
 Experiment4/src/*
 !Experiment4/src/*.py
+!Experiment4/tests/
+Experiment4/tests/*
+!Experiment4/tests/*.py

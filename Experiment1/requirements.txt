@@ -1,0 +1,9 @@
+requests==2.32.3
+pandas==2.2.3
+streamlit==1.44.1
+streamlit-autorefresh==1.0.1
+matplotlib==3.10.1
+pytest==8.3.5
+folium==0.20.0
+streamlit-folium==0.25.0
+numpy==2.2.4
