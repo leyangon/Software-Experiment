@@ -1,6 +1,0 @@
-scenario,day_1,day_2,day_3,day_4,day_5,day_6,day_7
-baseline,15,12,10,8,12,15,18
-dry,12,10,8,6,10,12,14
-wetter_start,18,15,12,10,11,13,15
-late_recovery,10,9,8,7,12,18,22
-volatile,20,8,16,5,14,10,24

@@ -1,20 +1,66 @@
-.DS_Store
+# Keep the repository focused on the guide Deliverables.
+# Non-deliverable local files remain on disk but are ignored by Git.
+*
 
-# Python caches and local environments
-__pycache__/
-*.py[cod]
-.pytest_cache/
-.mypy_cache/
-.ruff_cache/
-.venv/
-venv/
-env/
+!.gitignore
 
-# Local editor and runtime noise
-.vscode/
-.idea/
-*.log
+# Experiment 1 deliverables
+!Experiment1/
+Experiment1/*
+!Experiment1/weather_monitor.py
+!Experiment1/alert_log.txt
+!Experiment1/prompt_log.md
+!Experiment1/screenshots/
+Experiment1/screenshots/*
+!Experiment1/screenshots/dashboard_preview.png
 
-# Temporary files
-tmp/
-*.tmp
+# Support files required by the modular Experiment 1 app
+!Experiment1/src/
+Experiment1/src/*
+!Experiment1/src/*.py
+!Experiment1/data/
+Experiment1/data/*
+!Experiment1/data/sample_weather.json
+
+# Experiment 2 deliverables
+!Experiment2/
+Experiment2/*
+!Experiment2/scscn_runoff.py
+!Experiment2/test_scscn.py
+!Experiment2/sensitivity_analysis.py
+!Experiment2/runoff_comparison.png
+!Experiment2/prompt_log.md
+
+# Support data required by Experiment 2 analysis script
+!Experiment2/data/
+Experiment2/data/*
+!Experiment2/data/sample_hyetograph.csv
+
+# Experiment 3 deliverables
+!Experiment3/
+Experiment3/*
+!Experiment3/reservoir_optimize.py
+!Experiment3/optimal_schedule.csv
+!Experiment3/tradeoff_analysis.png
+!Experiment3/prompt_log.md
+!Experiment3/validation_report.txt
+
+# Support files required by the modular Experiment 3 app
+!Experiment3/src/
+Experiment3/src/*
+!Experiment3/src/*.py
+
+# Experiment 4 deliverables
+!Experiment4/
+Experiment4/*
+!Experiment4/flood_inundation.py
+!Experiment4/dem_data.npy
+!Experiment4/flood_extent_40m.png
+!Experiment4/flood_extent_50m.png
+!Experiment4/flood_curve.png
+!Experiment4/prompt_log.md
+
+# Support files required by the modular Experiment 4 app
+!Experiment4/src/
+Experiment4/src/*
+!Experiment4/src/*.py
